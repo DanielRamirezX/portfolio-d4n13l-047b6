@@ -40,8 +40,7 @@ const IndexPage = () => (
             Maestro en Seguridad Informática
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            Amante de la programación, 
             <br />
             fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
             ullamcorper.
