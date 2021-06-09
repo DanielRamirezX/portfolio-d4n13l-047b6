@@ -48,7 +48,7 @@ const IndexPage = () => (
         </header>
         <ul className="icons major">
           <li>
-            <span className="icon fa-coffee major style1">
+            <span className="icon solid fa-coffee major style1">
               <span className="label">Lorem</span>
             </span>
           </li>
