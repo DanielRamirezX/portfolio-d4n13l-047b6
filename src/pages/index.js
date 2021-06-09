@@ -41,7 +41,7 @@ const IndexPage = () => (
           </h2>
           <p>
             Amante de la programación y la tecnología en general, uso de metodologías ágiles
-            en el día a día y en el trabajo.
+            en el día a día y en el trabajo en equipo.
             <br />
             
           </p>
