@@ -35,7 +35,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Desarrollador BackEnd por las mañanas, 
+            Desarrollador BackEnd por las mañanas, Hacker por las noches
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
