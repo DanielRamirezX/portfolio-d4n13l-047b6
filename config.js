@@ -16,7 +16,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/DanielRamirezX',
     },
     {
       style: 'brands',
