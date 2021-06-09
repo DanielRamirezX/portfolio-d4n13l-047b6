@@ -31,7 +31,7 @@ const IndexPage = () => (
       </Scroll>
     </section>
 
-    <section id="one" className="wrapper style1 special">
+    <section id="one" className="wrapper style3 special">
       <div className="inner">
         <header className="major">
           <h2>
