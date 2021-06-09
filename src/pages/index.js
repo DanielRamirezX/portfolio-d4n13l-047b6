@@ -41,9 +41,9 @@ const IndexPage = () => (
           </h2>
           <p>
             Amante de la programación y la tecnología en general, uso de metodologías ágiles
+            en el día a día y en el trabajo.
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            
           </p>
         </header>
         <ul className="icons major">
