@@ -53,7 +53,7 @@ const IndexPage = () => (
             </span>
           </li>
           <li>
-            <span className="icon fa-shield major style2">
+            <span className="icon fa-shield-alt major style2">
               <span className="label">Ipsum</span>
             </span>
           </li>
