@@ -35,7 +35,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Desarrollador 
+            Desarrollador BackEnd
             <br />
             eget augue amet aliquet nisl cep donec
           </h2>
