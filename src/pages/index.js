@@ -43,7 +43,7 @@ const IndexPage = () => (
             Amante de la programación y la tecnología en general, uso de metodologías ágiles
             en el día a día y en el trabajo en equipo.
             <br />
-            Gran gusto por la fotografía, el café, la cerveza 
+            Gran gusto por la fotografía, el café, la cerveza y 
           </p>
         </header>
         <ul className="icons major">
