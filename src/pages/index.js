@@ -35,9 +35,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Desarrollador BackEnd
-            <br />
-            eget augue amet aliquet nisl cep donec
+            Desarrollador BackEnd por las mañanas,
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
