@@ -40,7 +40,7 @@ const IndexPage = () => (
             Maestro en Seguridad Informática
           </h2>
           <p>
-            Amante de la programación, 
+            Amante de la programación y la tecnología en general, uso de metodologías ágiles
             <br />
             fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
             ullamcorper.
