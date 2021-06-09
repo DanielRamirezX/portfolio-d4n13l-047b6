@@ -37,6 +37,9 @@ const IndexPage = () => (
           <h2>
             Ingeniero en Sistemas Computacionales
           </h2>
+           <h2>
+            Ingeniero en Sistemas Computacionales
+          </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
             eleifend
