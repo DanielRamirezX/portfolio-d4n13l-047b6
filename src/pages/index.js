@@ -35,7 +35,9 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Desarrollador de aplicaciones BackEnd con Java
+            Ingeniero en Sistemas Computacionales
+            <br/>
+            Maestro en Seguridad Informatica
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
