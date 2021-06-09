@@ -35,7 +35,8 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Ingeniero en Sistemas Computacionales
+            Ingeniero en Sistemas Computacionales<br>
+            Maestro en Seguridad Informatica
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
